@@ -1,19 +1,20 @@
 {
   "private": false,
-  "name": "@prismicio/gatsby-source-prismic-graphql",
+  "name": "@lucashfreitas/gatsby-source-prismic-graphql",
   "description": "Source data from Prismic with GraphQL",
   "license": "MIT",
   "author": "Birkir Gudjonsson <birkir.gudjonsson@gmail.com>",
   "contributors": [
-    "Marc McIntosh <marc.mcintosh@prismic.io>"
+    "Marc McIntosh <marc.mcintosh@prismic.io>",
+    "Lucas Santos <lucashfreitas1@gmail.com>"
   ],
-  "homepage": "https://github.com/prismicio/gatsby-source-prismic-graphql#readme",
+  "homepage": "https://github.com/lucashfreitas/gatsby-source-prismic-graphql#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prismicio/gatsby-source-prismic-graphql.git"
+    "url": "git+https://github.com/lucashfreitas/gatsby-source-prismic-graphql.git"
   },
   "bugs": {
-    "url": "https://github.com/prismicio/gatsby-source-prismic-graphql/issues"
+    "url": "https://github.com/lucashfreitas/gatsby-source-prismic-graphql/issues"
   },
   "version": "3.6.10",
   "main": "index.js",
