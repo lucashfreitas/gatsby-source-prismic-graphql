@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.6.11](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/compare/v3.6.5...v3.6.11) (2020-07-16)
+
+### Bug Fixes
+
+- add a default test command ([5a73115](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/5a73115955c34a318a084490950c8f6ee78b4c91))
+- issue [#18](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/issues/18) remove gatsby-image sharp nodes on preview queries ([99ce8f4](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/99ce8f4c2d860e05bfe08fd9f38ca13f7834882e))
+- issue [#3](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/issues/3) ([f447d3c](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/f447d3c99bd722ec444a427fbd0b65734bb2f963))
+- sharp image strip function ([6938ed7](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/6938ed7b88ce0969d9c9052e2b5d137367a0dc51))
+- typo issue [#4](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/issues/4) ([1733dae](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/1733dae5846fa47bdb4a81f0bcfe87a90e8cfb3f))
+- update gatsby-source-graphql-universal ([ac5b0ed](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/ac5b0ed864a0b5467e7da844596a37ee85f98488))
+
 ## [3.6.5](https://github.com/prismicio/gatsby-source-prismic-graphql/compare/v3.6.3...v3.6.5) (2020-06-26)
 
 **Note:** Version bump only for package @prismicio/gatsby-source-prismic-graphql

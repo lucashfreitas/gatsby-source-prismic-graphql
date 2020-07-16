@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.6.11](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/compare/v3.6.5...v3.6.11) (2020-07-16)
+
+### Bug Fixes
+
+- add a default test command ([5a73115](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/5a73115955c34a318a084490950c8f6ee78b4c91))
+- arnaud example ([62adffc](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/62adffc47294a85822490bb481f1d623588cd4b4))
+- example araund image ([d92915f](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/d92915fc3ceca2e72b3cdbf055d5eb6b992e5028))
+- fragments example ([c975272](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/c975272502041e298561e68c93b922b7db74738a))
+- issue [#18](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/issues/18) remove gatsby-image sharp nodes on preview queries ([99ce8f4](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/99ce8f4c2d860e05bfe08fd9f38ca13f7834882e))
+- issue [#3](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/issues/3) ([f447d3c](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/f447d3c99bd722ec444a427fbd0b65734bb2f963))
+- languages example ([7362563](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/73625636db05f0bf29d1b264d62d8bd19d84ac9d))
+- pagination example ([a2bf3ac](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/a2bf3aca5f83e3135521a150e55a1409aa4455fc))
+- sharp image strip function ([6938ed7](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/6938ed7b88ce0969d9c9052e2b5d137367a0dc51))
+- tests ([022bc30](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/022bc30fefc09af23ccbe19bc3c2938addd86cfe))
+- type ([d34aea0](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/d34aea04a326354e9e9fd9d8a562a3443feae5b9))
+- typo issue [#4](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/issues/4) ([1733dae](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/1733dae5846fa47bdb4a81f0bcfe87a90e8cfb3f))
+- update gatsby-source-graphql-universal ([ac5b0ed](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/commit/ac5b0ed864a0b5467e7da844596a37ee85f98488))
+
 ## [3.6.5](https://github.com/prismicio/gatsby-source-prismic-graphql/compare/v3.6.3...v3.6.5) (2020-06-26)
 
 **Note:** Version bump only for package root
