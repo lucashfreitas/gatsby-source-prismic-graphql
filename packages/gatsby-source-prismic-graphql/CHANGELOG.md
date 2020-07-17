@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.6.13](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/compare/v3.6.12...v3.6.13) (2020-07-17)
+
+**Note:** Version bump only for package @lucashfreitas/gatsby-source-prismic-graphql
+
 ## [3.6.12](https://github.com/lucashfreitas/gatsby-source-prismic-graphql/compare/v3.6.11...v3.6.12) (2020-07-17)
 
 **Note:** Version bump only for package @lucashfreitas/gatsby-source-prismic-graphql
